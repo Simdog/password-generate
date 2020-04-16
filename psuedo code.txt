@@ -1,0 +1,12 @@
+When click on generate password Start the prompts 
+prompt password length (pw between 8-128 chars)
+Confirm if want number?
+confirm if want special character?
+Confirm uppercase
+confirm lowercase
+After they answer, check to make sure one of the criteria was selected (1 has to be true)
+When promp selection is done build password based on selected prompts
+
+
+
+
