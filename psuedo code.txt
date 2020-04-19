@@ -6,6 +6,13 @@ Confirm uppercase
 confirm lowercase
 After they answer, check to make sure one of the criteria was selected (1 has to be true)
 When promp selection is done build password based on selected prompts
+Generate something based on user response 
+    length
+    uppercase
+    lowercase
+    special character
+
+Generate  
 
 
 
