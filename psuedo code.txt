@@ -12,7 +12,14 @@ Generate something based on user response
     lowercase
     special character
 
-Generate  
+Generate password w/ user inputs. 
+Check for ...
+    length
+    uppercase
+    lowercase
+    special character
+
+
 
 
 
